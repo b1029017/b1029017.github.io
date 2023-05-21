@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+    body{
+    background-color: azure;
+    background-size: cover;
+}
+
+.logo{
+    float: left;
+    width: 5%;
+    height: auto;
+    display:flex;
+    margin: 5px;
+}
+
+.navbar{
+    background-color: rgb( 0, 166, 80);
+    display: flex;
+}
+
+nav{
+    padding-left: 70%;
+
+}
+
+nav a {
+    color: whitesmoke;
+    padding: auto;
+    text-align: center;
+}
+
+nav a:hover{
+    color: darkgreen;
+}
+
+h1{
+    text-align: middle;
+}
